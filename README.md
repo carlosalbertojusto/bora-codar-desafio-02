@@ -16,7 +16,7 @@
   ## 🖼️ Preview
   
   <h1 align="center">
-  <img alt="Preview" src=".github/project.png" />
+  <img alt="Preview" src=".github/Project.png" />
   </h1>
   
   ## 📁 Acesso ao projeto
@@ -29,12 +29,12 @@
  - ``Styled Components`` 
  - ``Git``
 
-  ## 🧾 Resumo do projeto
-  
-  Desafio 02 #boraCodar da Rocketseat - Preview de um produto de uma Loja.
-  
-  Live site URL :  [Desafio 02 #boraCodar - Rocketseat ](https://carlosalbertojusto.github.io/bora-codar-desafio-02/)
-  
+## 🧾 Resumo do projeto
+
+Desafio 02 #boraCodar da Rocketseat - Preview de um produto de uma Loja.
+
+Live site URL : [Desafio 02 #boraCodar - Rocketseat ](https://carlosalbertojusto.github.io/bora-codar-desafio-02/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050984449538256). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
