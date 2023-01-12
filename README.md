@@ -33,7 +33,7 @@
 
 Desafio 02 #boraCodar da Rocketseat - Preview de um produto de uma Loja.
 
-Live site URL : [Desafio 02 #boraCodar - Rocketseat ](https://carlosalbertojusto.github.io/bora-codar-desafio-02/)
+Live site URL : [Desafio 02 #boraCodar - Rocketseat ](https://bora-codar-desafio-02.vercel.app/)
 
 ## 🔖 Layout
 
