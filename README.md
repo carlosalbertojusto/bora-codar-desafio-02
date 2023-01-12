@@ -21,7 +21,7 @@
   
   ## 📁 Acesso ao projeto
   
-  Você pode acessar o [PROJETO](https://github.com/carlosalbertojusto/bora-codar-desafio-01).
+  Você pode acessar o [PROJETO](https://github.com/carlosalbertojusto/bora-codar-desafio-02).
   
   ## ✔️ Tecnologias Utilizadas
   
